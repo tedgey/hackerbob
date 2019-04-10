@@ -19,7 +19,7 @@ The each do the following:
 * `loop k` will do the same for the third digit.
 * `loop l` will do the same for the fourth digits.
 
-(explanation source: https://www.reddit.com/r/geek/comments/79pxs5/stranger_things_basic_code_rewritten_in_python/dp49zky)
+(explanation cribbed from: https://www.reddit.com/r/geek/comments/79pxs5/stranger_things_basic_code_rewritten_in_python/dp49zky)
 
 ----
 
