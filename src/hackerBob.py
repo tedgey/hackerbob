@@ -1,5 +1,4 @@
 thePassword = str(1234)
-yourPassword = input('Enter Password:')
 
 def crack_password(password):
     passwd = list(thePassword)
@@ -14,4 +13,4 @@ def crack_password(password):
                         #print code
     print("Four Digit Password: {}".format(code))
 
-crack_password(str(yourPassword))
+crack_password(1234)
